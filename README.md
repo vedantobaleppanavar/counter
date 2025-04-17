@@ -2,10 +2,6 @@
 
 A simple and interactive counter built using HTML, CSS, and JavaScript.
 
-## 📷 Preview
-
-![Counter Preview](path_to_image.jpg) *(Replace with your image path)*
-
 ## 🚀 Features
 
 - **Increment**: Increase the counter value by 1.
@@ -36,18 +32,17 @@ git clone https://github.com/vedantobaleppanavar/counter.git
 ```
 Navigate to the project folder:
 
-bash
-Copy
-Edit
+```bash
 cd counter
+```
 Open index.html in your browser
 Just double-click the file or use Live Server in VS Code.
 
-💡 Customization
+##💡 Customization
 Modify styles.css to change fonts, colors, or layout.
 
 Add extra features like step size (increment/decrement by more than 1), or a history of changes.
 
-👤 Author
+##👤 Author
 Vedant Obaleppanavar
 GitHub: @vedantobaleppanavar
