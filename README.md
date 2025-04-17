@@ -38,11 +38,11 @@ cd counter
 Open index.html in your browser
 Just double-click the file or use Live Server in VS Code.
 
-##💡 Customization
+## 💡 Customization
 Modify styles.css to change fonts, colors, or layout.
 
 Add extra features like step size (increment/decrement by more than 1), or a history of changes.
 
-##👤 Author
+## 👤 Author
 Vedant Obaleppanavar
 GitHub: @vedantobaleppanavar
